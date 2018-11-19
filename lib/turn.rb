@@ -1,4 +1,5 @@
 board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
+index = 0
 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
