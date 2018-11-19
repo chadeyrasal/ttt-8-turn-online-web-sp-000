@@ -13,3 +13,7 @@ def input_to_index(user_input)
 rescue
   index = -1
 end
+
+def valid_move?(board, index)
+  
+end
