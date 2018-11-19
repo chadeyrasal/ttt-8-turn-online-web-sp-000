@@ -10,4 +10,4 @@ end
 
 board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
 
-display_board(board)
+output = capture_puts{ display_board(board) }
